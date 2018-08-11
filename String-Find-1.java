@@ -12,8 +12,10 @@
 *Output: 0
 */
 
-//when you meet string, try to use  "int [] XX= new int[128]" to save the string. 
+//when you meet string, try to use  
+//"int [] XX= new int[128]" to save the string. 
 //since you get char number.
+//str.charAt(0)
 
 class Solution {
     public int numJewelsInStones(String J, String S) 
