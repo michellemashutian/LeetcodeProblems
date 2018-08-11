@@ -1,8 +1,2 @@
 This file is about MYSQL problem
 
-
-//writing sql in several lines will make it quick
-# Write your MySQL query statement below
-select name,population,area 
-from World 
-where area >= 3000000 or population >= 25000000
