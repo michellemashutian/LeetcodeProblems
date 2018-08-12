@@ -7,6 +7,9 @@
 *Return the total area of all three projections.
 */
 
+//try to understand the problem before coding
+//front and right are obtained by bigges values sum of rows and columns
+
 class Solution {
     public int projectionArea(int[][] grid) 
     {
